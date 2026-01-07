@@ -7,4 +7,4 @@ We can move the “Office 2003” submenu contained in “wine/programs” to �
  
 There is only the graphical interface for now, but your contributions would be welcome.
 
-Translated with DeepL.com (free version)
+Any translation possibilities would be appreciated.
